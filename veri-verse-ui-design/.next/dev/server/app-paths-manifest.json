@@ -1,0 +1,10 @@
+{
+  "/app/cross-checks/page": "app/app/cross-checks/page.js",
+  "/app/disputes/page": "app/app/disputes/page.js",
+  "/app/marketplace/page": "app/app/marketplace/page.js",
+  "/app/profile/page": "app/app/profile/page.js",
+  "/app/proof/page": "app/app/proof/page.js",
+  "/app/run/page": "app/app/run/page.js",
+  "/app/workflows/page": "app/app/workflows/page.js",
+  "/page": "app/page.js"
+}

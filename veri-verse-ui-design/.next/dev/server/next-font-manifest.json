@@ -1,0 +1,39 @@
+{
+  "app": {
+    "[project]/Downloads/veri-verse-ui-design/veri-verse-ui-design/app/app/cross-checks/page": [
+      "static/media/a626ed2fbe2db1bf-s.p.45f567a3.woff2",
+      "static/media/70bc3e132a0a741e-s.p.15008bfb.woff2"
+    ],
+    "[project]/Downloads/veri-verse-ui-design/veri-verse-ui-design/app/app/disputes/page": [
+      "static/media/a626ed2fbe2db1bf-s.p.45f567a3.woff2",
+      "static/media/70bc3e132a0a741e-s.p.15008bfb.woff2"
+    ],
+    "[project]/Downloads/veri-verse-ui-design/veri-verse-ui-design/app/app/marketplace/page": [
+      "static/media/a626ed2fbe2db1bf-s.p.45f567a3.woff2",
+      "static/media/70bc3e132a0a741e-s.p.15008bfb.woff2"
+    ],
+    "[project]/Downloads/veri-verse-ui-design/veri-verse-ui-design/app/app/profile/page": [
+      "static/media/a626ed2fbe2db1bf-s.p.45f567a3.woff2",
+      "static/media/70bc3e132a0a741e-s.p.15008bfb.woff2"
+    ],
+    "[project]/Downloads/veri-verse-ui-design/veri-verse-ui-design/app/app/proof/page": [
+      "static/media/a626ed2fbe2db1bf-s.p.45f567a3.woff2",
+      "static/media/70bc3e132a0a741e-s.p.15008bfb.woff2"
+    ],
+    "[project]/Downloads/veri-verse-ui-design/veri-verse-ui-design/app/app/run/page": [
+      "static/media/a626ed2fbe2db1bf-s.p.45f567a3.woff2",
+      "static/media/70bc3e132a0a741e-s.p.15008bfb.woff2"
+    ],
+    "[project]/Downloads/veri-verse-ui-design/veri-verse-ui-design/app/app/workflows/page": [
+      "static/media/a626ed2fbe2db1bf-s.p.45f567a3.woff2",
+      "static/media/70bc3e132a0a741e-s.p.15008bfb.woff2"
+    ],
+    "[project]/Downloads/veri-verse-ui-design/veri-verse-ui-design/app/page": [
+      "static/media/a626ed2fbe2db1bf-s.p.45f567a3.woff2",
+      "static/media/70bc3e132a0a741e-s.p.15008bfb.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

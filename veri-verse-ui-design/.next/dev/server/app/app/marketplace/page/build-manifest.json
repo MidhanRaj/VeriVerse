@@ -1,0 +1,22 @@
+{
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [
+    "static/chunks/5e189_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_b60586e5._.js",
+    "static/chunks/5e189_next_dist_compiled_react-dom_113a38f3._.js",
+    "static/chunks/5e189_next_dist_compiled_react-server-dom-turbopack_1a947d7c._.js",
+    "static/chunks/5e189_next_dist_compiled_next-devtools_index_dfa4d1c8.js",
+    "static/chunks/5e189_next_dist_compiled_96eb957b._.js",
+    "static/chunks/5e189_next_dist_client_dea412a7._.js",
+    "static/chunks/5e189_next_dist_de709ab6._.js",
+    "static/chunks/5e189_@swc_helpers_cjs_cdcf6f8c._.js",
+    "static/chunks/Downloads_veri-verse-ui-design_veri-verse-ui-design_a0ff3932._.js",
+    "static/chunks/turbopack-Downloads_veri-verse-ui-design_veri-verse-ui-design_4a8c9775._.js"
+  ],
+  "pages": {},
+  "ampFirstPages": []
+}

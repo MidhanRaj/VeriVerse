@@ -1,0 +1,15 @@
+node_modules/
+# sometimes people write this with a leading slash
+/node_modules
+/.next
+/dist
+/.turbo
+.env
+.DS_Store
+*.node
+node_modules/
+.env
+*.node
+.next/
+dist/
+build/

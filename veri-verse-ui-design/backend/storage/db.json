@@ -1,0 +1,137 @@
+{
+  "agents": [
+    {
+      "id": "moderation-agent",
+      "name": "Moderation Agent",
+      "score": 45,
+      "runs": 48
+    },
+    {
+      "id": "contract-agent",
+      "name": "Contract Summary Agent",
+      "score": 50,
+      "runs": 0
+    },
+    {
+      "id": "risk-agent",
+      "name": "Transaction Risk Agent",
+      "score": 50,
+      "runs": 0
+    },
+    {
+      "id": "misinfo-agent",
+      "name": "Misinformation Checker",
+      "score": 50,
+      "runs": 2
+    }
+  ],
+  "proofs": [
+    {
+      "proofId": "proof-1764659583659",
+      "agentId": "moderation-agent",
+      "ipfsHash": "bafybeimockcidcj9wgk",
+      "timestamp": "2025-12-02T07:13:03.660Z",
+      "txHash": "0xitsqz7obnt7"
+    },
+    {
+      "proofId": "proof-1764838721218",
+      "agentId": "moderation-agent",
+      "ipfsHash": "bafybeimockcidwc1m6t",
+      "timestamp": "2025-12-04T08:58:41.274Z",
+      "txHash": "0x85vlrxtmsio"
+    },
+    {
+      "proofId": "proof-1764906362684",
+      "agentId": "moderation-agent",
+      "ipfsHash": "bafybeimockcidqyqins",
+      "timestamp": "2025-12-05T03:46:02.698Z",
+      "txHash": "0xd9mvxerdk7i",
+      "blockNumber": null,
+      "network": "BlockDAG Awakening Testnet",
+      "simulated": true
+    },
+    {
+      "proofId": "proof-1764943040767",
+      "agentId": "moderation-agent",
+      "ipfsHash": "bafybeimockcidqvbx3b",
+      "timestamp": "2025-12-05T13:57:20.771Z",
+      "txHash": "0xjambpvnp5hp",
+      "blockNumber": null,
+      "network": "BlockDAG Awakening Testnet",
+      "simulated": true
+    }
+  ],
+  "disputes": [
+    {
+      "id": "dispute-1764659583668",
+      "proofId": "proof-1764659583659",
+      "challengerExplanation": "I disagree with this result",
+      "crossCheckResult": {
+        "originalAgentId": "moderation-agent",
+        "checkers": [
+          {
+            "checkerId": "checker-1",
+            "agrees": true,
+            "reasoning": "Output matches independent verification.",
+            "timestamp": "2025-12-02T07:13:03.669Z"
+          },
+          {
+            "checkerId": "checker-2",
+            "agrees": true,
+            "reasoning": "Output matches independent verification.",
+            "timestamp": "2025-12-02T07:13:03.669Z"
+          },
+          {
+            "checkerId": "checker-3",
+            "agrees": false,
+            "reasoning": "Discrepancy found in confidence score.",
+            "timestamp": "2025-12-02T07:13:03.669Z"
+          }
+        ],
+        "consensus": "VALIDATED",
+        "agreeCount": 2,
+        "totalCheckers": 3,
+        "timestamp": "2025-12-02T07:13:03.669Z"
+      },
+      "outcome": "Rejected Challenge",
+      "status": "RESOLVED",
+      "timestamp": "2025-12-02T07:13:03.669Z"
+    },
+    {
+      "id": "dispute-1764943046842",
+      "proofId": "proof-1764943040767",
+      "challengerExplanation": "User disputed this result",
+      "crossCheckResult": {
+        "originalAgentId": "moderation-agent",
+        "checkers": [
+          {
+            "checkerId": "checker-1",
+            "agrees": false,
+            "reasoning": "Discrepancy found in confidence score.",
+            "timestamp": "2025-12-05T13:57:26.843Z"
+          },
+          {
+            "checkerId": "checker-2",
+            "agrees": true,
+            "reasoning": "Output matches independent verification.",
+            "timestamp": "2025-12-05T13:57:26.843Z"
+          },
+          {
+            "checkerId": "checker-3",
+            "agrees": false,
+            "reasoning": "Discrepancy found in confidence score.",
+            "timestamp": "2025-12-05T13:57:26.843Z"
+          }
+        ],
+        "consensus": "FLAGGED",
+        "agreeCount": 1,
+        "totalCheckers": 3,
+        "timestamp": "2025-12-05T13:57:26.843Z"
+      },
+      "outcome": "Valid Challenge",
+      "status": "RESOLVED",
+      "timestamp": "2025-12-05T13:57:26.843Z"
+    }
+  ],
+  "workflows": []
+}
